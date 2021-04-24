@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/erenari?style=social)](https://github.com/erenari?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/erenari?style=social)
 
-### Hi there 👋
+
 I'm Eren!
 
 Contact with me via these platforms! 
