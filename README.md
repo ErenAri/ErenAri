@@ -29,7 +29,7 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"></img>
 
 
-
+<img src="https://i.giphy.com/media/wHB67Zkr63UP7RWJsj/giphy.webp"></img>
 
 <!--
 
