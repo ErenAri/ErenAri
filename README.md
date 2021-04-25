@@ -25,7 +25,7 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Angular-brown?style=for-the-badge&logo=angular&logoColor=white"></img>
 
 
 
