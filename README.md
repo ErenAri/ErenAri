@@ -17,7 +17,7 @@ Contact with me via these platforms!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&theme=gotham" alt="erenari" />
  
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
