@@ -16,8 +16,9 @@ Contact with me via these platforms!
  <a href="https://twitter.com/ErenAri27" target="_blank" rel="nofollow"><img alt="Eren's Twitter Address" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
  <a href="https://www.instagram.com/erenari42/" target="_blank" rel="nofollow"><img alt="Eren's Instagram Address" src="https://img.shields.io/badge/instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=engindemirog&show_icons=true&theme=gotham" alt="erenari" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&theme=gotham" alt="erenari" />
  
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
