@@ -16,7 +16,7 @@ Contact with me via these platforms!
  <a href="https://twitter.com/ErenAri27" target="_blank" rel="nofollow"><img alt="Eren's Twitter Address" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
  <a href="https://www.instagram.com/eren_ari27/" target="_blank" rel="nofollow"><img alt="Eren's Instagram Address" src="https://img.shields.io/badge/instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenari&show_icons=true&locale=en&layout=compact&theme=radical"/>
  
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&theme=gotham" alt="erenari" />
  
@@ -25,6 +25,7 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"></img>
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Angular-brown?style=for-the-badge&logo=angular&logoColor=white"></img>
