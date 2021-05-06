@@ -18,7 +18,7 @@ Contact with me via these platforms!
 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenari&show_icons=true&locale=en&layout=compact&theme=blue-green"/>
  
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&theme=blue-green" alt="erenari" />
+<p align="left"> <img width="500px" src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&theme=blue-green" alt="erenari" />
  
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
