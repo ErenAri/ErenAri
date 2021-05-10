@@ -18,7 +18,7 @@ Contact with me via these platforms!
 
 
 <p align="center">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true"> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenari&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true"> <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenari&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7">
 </p>
  
  
