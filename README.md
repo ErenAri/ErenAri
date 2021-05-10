@@ -16,11 +16,10 @@ Contact with me via these platforms!
  <a href="https://twitter.com/ErenAri27" target="_blank" rel="nofollow"><img alt="Eren's Twitter Address" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
  <a href="https://www.instagram.com/eren_ari27/" target="_blank" rel="nofollow"><img alt="Eren's Instagram Address" src="https://img.shields.io/badge/instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<img weight="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenari&show_icons=true&locale=en&layout=compact&theme=blue-green"/> 
 
- <img weight="400px" src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&theme=blue-green"/>
-
-
+<p align="center">
+    <img height=177 src="https://github-readme-stats.vercel.app/api?username=erenari&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true"> <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenari&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7">
+</p>
  
  
 ## 🛠 Technologies & Tools 
