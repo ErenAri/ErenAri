@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/erenari?style=social)
 
 
-I'm Eren!,I'm 17 years old. I'm living Turkey. I have been coding for 2 year those are my some project but not my all project. Im student of [Engin Demiroğ](https://github.com/engindemirog) and ı try to educate myself, ı hope you enjoy with my github profile :)
+I'm Eren!,. I'm living Turkey. I have been coding for 2 year those are my some project but not my all project. Im student of [Engin Demiroğ](https://github.com/engindemirog) and ı try to educate myself, ı hope you enjoy with my github profile :)
 
 
 Contact with me via these platforms! 
