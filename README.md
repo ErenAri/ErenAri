@@ -30,7 +30,10 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Angular-brown?style=for-the-badge&logo=angular&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Angular-brown?style=for-the-badge&logo=angular&logoColor=white"></img>  
+
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkeremvaris.keremvaris%2Freadme)
+
 
 
 
