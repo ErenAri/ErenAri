@@ -6,10 +6,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/erenari?style=social)
 
 
-I'm Eren!,. I'm living Turkey. I have been coding for 2 year those are my some project but not my all project. Im student of [Engin Demiroğ](https://github.com/engindemirog) and ı try to educate myself, ı hope you enjoy with my github profile :)
+I'm Eren!,. I'm living in Turkey. I have been coding for 2 years those are my some project but not my all project. I'm a student of [Engin Demiroğ](https://github.com/engindemirog) and ı trying to educate me, ı hope you enjoy my GitHub profile :)
 
 
-Contact with me via these platforms! 
+Contact me via these platforms! 
 
  <a href="https://www.linkedin.com/in/eren-ar%C4%B1-325433206/" target="_blank" rel="nofollow"><img alt="Eren's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:erenari27@gmail.com" target="_blank" rel="nofollow"><img alt="Eren's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -32,7 +32,7 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Angular-brown?style=for-the-badge&logo=angular&logoColor=white"></img>  
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ferenari.erenari%2Freadme)
+[visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ferenari.erenari%2Freadme)
 
 
 
