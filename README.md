@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/erenari?style=social)
 
 
-I'm Eren!,. I'm living in Turkey. I have been coding for 2 years those are my some project but not my all project. I'm a student of [Engin Demiroğ](https://github.com/engindemirog) and ı trying to educate me, ı hope you enjoy my GitHub profile :)
+I'm Eren! I'm living in Turkey. I have been coding for a few years those are some projects but not my all projects. I'm a student of [Engin Demiroğ](https://github.com/engindemirog) and ı am trying to educate myself, ı hope you enjoy my GitHub profile :)
 
 
 Contact me via these platforms! 
