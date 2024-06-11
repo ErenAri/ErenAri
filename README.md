@@ -6,10 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/erenari?style=social)
 
 
-I'm Eren! I'm living in Turkey. I have been coding for a few years those are some projects but not my all projects. I'm a student of [Engin Demiroğ](https://github.com/engindemirog) and I am trying to educate myself, ı hope you enjoy my GitHub profile :)
 
-
-Contact me via these platforms! 
 
  <a href="https://www.linkedin.com/in/eren-ar%C4%B1-325433206/" target="_blank" rel="nofollow"><img alt="Eren's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:erenari27@gmail.com" target="_blank" rel="nofollow"><img alt="Eren's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
