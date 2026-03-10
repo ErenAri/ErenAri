@@ -36,23 +36,28 @@ Modular .NET backend built with clean architecture principles for production-min
 ## Highlighted Repositories
 
 <p align="center">
-  <a href="https://github.com/ErenAri/Aegis-BPF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErenAri&repo=Aegis-BPF&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ErenAri/post-quantum-messaging-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErenAri&repo=post-quantum-messaging-app&theme=tokyonight&hide_border=true" />
-  </a>
+
+<a href="https://github.com/ErenAri/Aegis-BPF">
+<img src="https://readme-stats-fast.vercel.app/api/pin/?username=ErenAri&repo=Aegis-BPF&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/ErenAri/post-quantum-messaging-app">
+<img src="https://readme-stats-fast.vercel.app/api/pin/?username=ErenAri&repo=post-quantum-messaging-app&theme=tokyonight"/>
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/ErenAri/cathode-screening">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErenAri&repo=cathode-screening&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ErenAri/HCP-workload-optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErenAri&repo=HCP-workload-optimizer&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
+<a href="https://github.com/ErenAri/cathode-screening">
+<img src="https://readme-stats-fast.vercel.app/api/pin/?username=ErenAri&repo=cathode-screening&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/ErenAri/HCP-workload-optimizer">
+<img src="https://readme-stats-fast.vercel.app/api/pin/?username=ErenAri&repo=HCP-workload-optimizer&theme=tokyonight"/>
+</a>
+
+</p>
 ## Contribution Snake
 
 <p align="center">
