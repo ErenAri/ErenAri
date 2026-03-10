@@ -15,8 +15,17 @@ I build high-upside software systems across runtime security, protocol engineeri
 ## GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ErenAri&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ErenAri&layout=compact&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ErenAri&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ErenAri&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErenAri&theme=tokyonight"/>
+
 </p>
 
 ## Featured Projects
