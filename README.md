@@ -1,47 +1,73 @@
 # Eren Arı
 
-Systems / Security / Applied Research 
+## Systems / Security / Applied Research Engineer
 
-I build software across runtime security, protocol engineering, scientific ML, and infrastructure.
+I build software across runtime security, protocol engineering, scientific machine learning, and infrastructure engineering.
+
+## Core Areas
+
+- Systems Security
+- eBPF / Runtime Enforcement
+- Post-Quantum Messaging
+- Scientific Machine Learning
+- HPC / Optimization
+- Backend Architecture
 
 ## Featured Projects
 
+### Aegis-BPF
+eBPF CO-RE runtime security system focused on process lineage, policy enforcement, and runtime control.
+
+### post-quantum-messaging-app
+Hybrid post-quantum secure messaging prototype exploring modern protocol design and cryptographic engineering.
+
+### cathode-screening
+Graph-based AI platform for battery cathode material screening and property prediction.
+
+### HCP-workload-optimizer
+Systems-first HPC workload optimizer focused on reproducibility, workload intelligence, and engineering credibility.
+
+### COBOL-guard
+Deterministic verification framework for COBOL modernization and behavioral equivalence checking.
+
+### eduHub.api
+Modular .NET backend built with clean architecture principles for production-minded API development.
+
+## Highlighted Repositories
+
 <p align="center">
   <a href="https://github.com/ErenAri/Aegis-BPF">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ErenAri&repo=Aegis-BPF&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErenAri&repo=Aegis-BPF&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/ErenAri/post-quantum-messaging-app">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ErenAri&repo=post-quantum-messaging-app&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErenAri&repo=post-quantum-messaging-app&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ErenAri/cathode-screening">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ErenAri&repo=cathode-screening&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErenAri&repo=cathode-screening&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/ErenAri/HCP-workload-optimizer">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=ErenAri&repo=HCP-workload-optimizer&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErenAri&repo=HCP-workload-optimizer&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-
-## Analytics
-
-<p align="center">
-  <img height="170em" src="https://readme-stats-fast.vercel.app/api?username=ErenAri&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ErenAri&layout=compact&theme=tokyonight" />
 </p>
 
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErenAri/ErenAri/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ErenAri/ErenAri/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ## 3D Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph" />
 </p>
+
+## Tech Stack
+
+Rust, Python, C#, TypeScript, C++, Solidity, FastAPI, Next.js, .NET, PostgreSQL, PyTorch, eBPF
 
 ## Links
 
