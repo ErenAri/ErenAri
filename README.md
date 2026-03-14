@@ -58,11 +58,6 @@ Modular .NET backend built with clean architecture principles for production-min
 </a>
 
 </p>
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErenAri/ErenAri/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ## 3D Contribution Graph
 
