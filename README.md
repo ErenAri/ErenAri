@@ -1,6 +1,6 @@
 # Eren Arı
 
-## Systems / Security / Applied Research Engineer
+## Systems / Security / Applied Research 
 
 I build software across runtime security, protocol engineering, scientific machine learning, and infrastructure engineering.
 
